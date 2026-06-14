@@ -1,6 +1,6 @@
 # My First Project
 
-Welcom to my first GitHub project!
+Welcome to my first GitHub project!
 
 This project is a simple example to learn how to use Git and GitHub.
 
@@ -10,6 +10,6 @@ This project is a simple example to learn how to use Git and GitHub.
 2. Make your changes
 3. Open a pull request
 
-## Contribuiting
+## Contributing
 
 Feel free to open issues and pull requests.
